@@ -1,5 +1,6 @@
+Hey BloodWork here!
 sample download for the test1
-<<<<<<< HEAD
+
 Changes from the local machine 
 =======
 
