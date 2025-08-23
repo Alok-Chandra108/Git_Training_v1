@@ -1,2 +1,7 @@
 sample download for the test1
+<<<<<<< HEAD
 Changes from the local machine 
+=======
+
+AND ANOTHER commit from the local machine
+>>>>>>> 4c98356a3ed51fac716ad7ec62014e346859776d
